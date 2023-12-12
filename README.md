@@ -8,8 +8,8 @@ I'm Brunda Mariswamy, a passionate Data Engineering  professonal with almost 3 y
 
 #### 💼 Professional Background
 
-- 🎓 I am Current pursuing degree in Masters in Data Science from George Washington.
-- 🌐 Worked as Data Engineer  at Larsen  & Tubro Infotech Limited.
+- 🎓 I am Currently pursuing degree in Masters in Data Science from George Washington.
+- 🌐 Worked as Data Engineer at Larsen  & Tubro Infotech Limited.
 - 🚀 I specialize in Data Science & Engeering filed.
 
 #### 🔭 What I worked  On
